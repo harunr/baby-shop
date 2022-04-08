@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.416" height="16.131" viewBox="0 0 21.416 16.131">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#fff}
+        </style>
+    </defs>
+    <g id="Group_111" transform="translate(0 .07)">
+        <path id="Path_58" d="M0 0h20.78" class="cls-1" transform="translate(0 7.995)"/>
+        <path id="Path_59" d="M.012 0s-.677 4.821 8.346 8" class="cls-1" transform="translate(12.892)"/>
+        <path id="Path_60" d="M.012 8s-.677-4.826 8.346-8" class="cls-1" transform="translate(12.892 7.996)"/>
+    </g>
+</svg>
